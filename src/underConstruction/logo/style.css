@@ -1,0 +1,18 @@
+.logoStyle  {
+    width : 200px;
+    height: 250px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.textStyle {
+    position: absolute;
+    font-size: 24px;
+    font-weight: 100;
+    color: #2C2E2B;
+    word-spacing: 3px;
+    top: 48%;
+    left: 35%;
+}
