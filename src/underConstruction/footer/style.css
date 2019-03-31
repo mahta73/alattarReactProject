@@ -1,11 +1,10 @@
 .footerStyle {
-    position: absolute;
     font-size: 24px;
     font-weight: 100;
     color: #2C2E2B;
     word-spacing: 3px;
-    top: 70%;
-    left: 35%;
+    margin: 1.5em;
+    text-align: center;
 }
 
 .pStyle {
