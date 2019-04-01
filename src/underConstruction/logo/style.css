@@ -1,8 +1,13 @@
 .logoStyle  {
-    position: relative;
-    left: 40%;
     width : 210px;
     height: 235px;
 }
 
+
+@media screen and (max-width:800px) {
+    .logoStyle {
+        width: 160px;
+        height: 185px;
+    }
+}
 

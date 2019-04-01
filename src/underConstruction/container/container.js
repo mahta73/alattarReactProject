@@ -11,11 +11,13 @@ const Container = () => (
             The first Armenian Parfume Manufacturing
         </p>
 
+        <div className = 'FirstLineStyle'></div>
+
         <p className = 'text'> 
             OUR WEBSITE IS UNDER CONSTRUCTION
         </p>
         
-        <div className = 'lineStyle'></div>
+        <div className = 'SecondLineStyle'></div>
 
         <Footer />
     </div>

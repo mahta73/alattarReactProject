@@ -3,11 +3,13 @@ import LogoImage from '../../imgs/logo.png';
 import './style.css';
 
 const Logo = () => (
-    <img  
-        className = 'logoStyle' 
-        src = {LogoImage} 
-        alt = 'AL ATTAR Parfume since 1971'
-    />
+    <center>
+        <img  
+            className = 'logoStyle' 
+            src = {LogoImage} 
+            alt = 'AL ATTAR Parfume since 1971'
+        />
+    </center>
 )
 
 export default Logo;
